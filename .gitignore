@@ -1,0 +1,10 @@
+.venv/
+data/
+warehouse/
+nh_analytics/target/
+nh_analytics/logs/
+nh_analytics/dbt_packages/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+logs/
